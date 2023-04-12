@@ -1,0 +1,72 @@
+body {
+    background-image: url("topography.webp") ;
+    padding: 0 10px;
+    font-family: consolas, courier;
+}
+
+header {
+    background-color: #333333;
+    background-image: url("aperture.svg");
+    background-position-y: center;
+    background-position-x: 10%;
+    background-repeat: no-repeat;
+    padding: 5px;
+}
+
+#navigationBar {
+    text-align: right;
+    padding-right: 7%;
+}
+
+header p {
+    color: #ff0099;
+    padding: 0 20px;
+    display: inline-block;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 60px;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Vollkorn', serif;
+}
+
+main {
+    padding: 0 12%;
+    text-align: justify;
+    
+}
+
+.centeredContent {
+    padding: 35px 0 0 0;
+    text-align: center;
+}
+
+.centeredContent p {
+    padding: 35px 0 0 0;
+}
+
+main h3 {
+    color: black;
+    font-size: 30px;
+    margin: 0;
+}
+
+main article h3 {
+    color:  #ff0099;
+}
+
+main h2 {
+    font-size: 40px;
+}
+
+main p {
+    padding: 0 0 50px 0;
+}
+
+main article p {
+    padding: 0;
+}
